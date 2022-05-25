@@ -6,5 +6,6 @@ class HelloWorld
     {
         System.out.println("welcome to jenkins");
         System.out.println("welcome to git hub integration with jenkins");
+        System.out.println("poll scm");
     }
 }
