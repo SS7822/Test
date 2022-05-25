@@ -5,5 +5,6 @@ class HelloWorld
     public static void main(String args[])
     {
         System.out.println("welcome to jenkins");
+        System.out.println("welcome to git hub integration with jenkins");
     }
 }
