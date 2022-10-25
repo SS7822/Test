@@ -9,9 +9,6 @@ class HelloWorld
 
 // =======
         System.out.println("welcome to jenkins");
-        System.out.println("welcome to git hub integration with jenkins");
-        System.out.println("poll scm");
-	System.out.println("oct 25");
-// >>>>>>> 812e7831fe8fe7dfd2d5b886002388856013fdc4
+
     }
 }
