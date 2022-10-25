@@ -4,8 +4,7 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window.
     public static void main(String args[])
     {
-        System.out.println("Hello, World");
-	System.out.println("welcome to jenkis");
-	System.out.println("welcome to GIT");
+	      System.out.println("Hello, World");
+
     }
 }
